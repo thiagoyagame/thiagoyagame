@@ -36,7 +36,7 @@ Estudante de **Ciência da Computação** (8º período) em transição de carre
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=thiagoyagame&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=thiagoyagame&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoyagame&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages" />
 </p>
 
