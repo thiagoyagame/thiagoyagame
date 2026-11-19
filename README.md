@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 Sobre Mim
-Estudante de **Ciência da Computação** (8º período) em transição de carreira após 20 anos de experiência no setor de varejo, unindo uma sólida bagagem estratégica com paixão por tecnologia. Atualmente, foco meus estudos e projetos no ecossistema de **desenvolvimento mobile multiplataforma** e em **segurança da informação** (pesquisa de vulnerabilidades em bug bounty e operações defensivas Blue Team).
+Bacharel em Ciência da Computação (Formação em Dezembro/2026) | Desenvolvedor Mobile & Entusiasta de Tecnologia em transição de carreira após 20 anos de experiência no setor de varejo, unindo uma sólida bagagem estratégica com paixão por tecnologia. Atualmente, foco meus estudos e projetos no ecossistema de **desenvolvimento mobile multiplataforma** e em **segurança da informação** (pesquisa de vulnerabilidades em bug bounty e operações defensivas Blue Team).
 
 ---
 
