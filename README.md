@@ -18,12 +18,12 @@ Bacharel em Ciência da Computação (Formação em Dezembro/2026) | Desenvolved
 
 | Categoria | Tecnologias / Ferramentas |
 | :--- | :--- |
-| **Mobile & Frontend** | `React Native`, `Expo`, `TypeScript`, `JavaScript (ES6+)` |
-| **Backend & Dados** | `Node.js`, `Python`, `Openpyxl` |
-| **Segurança & Redes** | `Bug Bounty (BugHunt)`, `Blue Team`, `Cisco Packet Tracer`, `VLANs`, `ACLs` |
+| **Mobile & Frontend** | `Kotlin`, `Jetpack Compose`, `React Native`, `Expo`, `TypeScript`, `JavaScript (ES6+)`, `HTML5` |
+| **Backend & Automação** | `Node.js`, `Python`, `Java`, `Spring Boot`, `Openpyxl` |
+| **Banco de Dados** | `PostgreSQL`, `MySQL`, `SQLite`, `Modelagem SQL` |
+| **Segurança & Redes** | `Bug Bounty (BugHunt)`, `Blue Team`, `Cisco Packet Tracer`, `VLANs`, `ACLs`, `OpenLDAP` |
 | **DevOps & Infra** | `Linux (Terminal)`, `Bash`, `Ansible`, `Systemd`, `OpenSSL`, `Docker` |
 | **Controle de Versão** | `Git`, `GitHub` |
-
 ---
 
 ### 📱 Projetos em Destaque
