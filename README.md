@@ -28,7 +28,7 @@ Bacharel em Ciência da Computação (Formação em Dezembro/2026) | Desenvolved
 
 ### 📱 Projetos em Destaque
 
-* **Let's Bake** *(App Mobile)*: Aplicativo desenvolvido em **React Native com Expo** voltado para home breadmakers, apresentando gerenciamento de receitas, escala de ingredientes, suporte a Dark Mode e cálculos de levain.
+* **[Let's Bake](https://github.com/thiagoyagame/ReceitasApp)** *(App Mobile)*: Aplicativo desenvolvido em **React Native com Expo** voltado para home breadmakers, apresentando gerenciamento de receitas, escala de ingredientes, suporte a Dark Mode e cálculos de levain.
 * **[KPGAME](https://github.com/thiagoyagame/KPGAME)**:  jogo 2D de plataforma para Android sobre conscientização ambiental (HTML5 Canvas, JavaScript, Android Studio/Gradle).
 
 ---
